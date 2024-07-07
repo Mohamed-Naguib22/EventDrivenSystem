@@ -1,0 +1,15 @@
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Application\bin\Debug\net8.0\EventListener.Application.deps.json
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Application\bin\Debug\net8.0\EventListener.Application.dll
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Application\bin\Debug\net8.0\EventListener.Application.pdb
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Application\obj\Debug\net8.0\EventListener.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Application\obj\Debug\net8.0\EventListener.Application.AssemblyInfoInputs.cache
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Application\obj\Debug\net8.0\EventListener.Application.AssemblyInfo.cs
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Application\obj\Debug\net8.0\EventListener.Application.csproj.CoreCompileInputs.cache
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Application\obj\Debug\net8.0\EventListener.Application.dll
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Application\obj\Debug\net8.0\refint\EventListener.Application.dll
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Application\obj\Debug\net8.0\EventListener.Application.pdb
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Application\obj\Debug\net8.0\ref\EventListener.Application.dll
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Application\obj\Debug\net8.0\EventListener.Application.csproj.AssemblyReference.cache
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Application\bin\Debug\net8.0\EventListener.Domain.dll
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Application\bin\Debug\net8.0\EventListener.Domain.pdb
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Application\obj\Debug\net8.0\EventLis.B1CBC171.Up2Date

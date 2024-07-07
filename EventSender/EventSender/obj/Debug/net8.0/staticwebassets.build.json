@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YWwBsM1ri+l6kvFObFDs6E9nCkvb1X59BSF0xSGtEOc=",
+  "Source": "EventSender.WebApi",
+  "BasePath": "_content/EventSender.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Infrastructure\bin\Debug\net8.0\EventListener.Infrastructure.deps.json
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Infrastructure\bin\Debug\net8.0\EventListener.Infrastructure.dll
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Infrastructure\bin\Debug\net8.0\EventListener.Infrastructure.pdb
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Infrastructure\bin\Debug\net8.0\EventListener.Domain.dll
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Infrastructure\bin\Debug\net8.0\EventListener.Domain.pdb
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Infrastructure\obj\Debug\net8.0\EventListener.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Infrastructure\obj\Debug\net8.0\EventListener.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Infrastructure\obj\Debug\net8.0\EventListener.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Infrastructure\obj\Debug\net8.0\EventListener.Infrastructure.AssemblyInfo.cs
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Infrastructure\obj\Debug\net8.0\EventListener.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Infrastructure\obj\Debug\net8.0\EventLis.FB66BBDB.Up2Date
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Infrastructure\obj\Debug\net8.0\EventListener.Infrastructure.dll
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Infrastructure\obj\Debug\net8.0\refint\EventListener.Infrastructure.dll
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Infrastructure\obj\Debug\net8.0\EventListener.Infrastructure.pdb
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Infrastructure\obj\Debug\net8.0\ref\EventListener.Infrastructure.dll
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Infrastructure\bin\Debug\net8.0\EventListener.Application.dll
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Infrastructure\bin\Debug\net8.0\EventListener.Application.pdb

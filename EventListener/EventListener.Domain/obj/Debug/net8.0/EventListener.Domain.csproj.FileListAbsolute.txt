@@ -1,0 +1,11 @@
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Domain\bin\Debug\net8.0\EventListener.Domain.deps.json
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Domain\bin\Debug\net8.0\EventListener.Domain.dll
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Domain\bin\Debug\net8.0\EventListener.Domain.pdb
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Domain\obj\Debug\net8.0\EventListener.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Domain\obj\Debug\net8.0\EventListener.Domain.AssemblyInfoInputs.cache
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Domain\obj\Debug\net8.0\EventListener.Domain.AssemblyInfo.cs
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Domain\obj\Debug\net8.0\EventListener.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Domain\obj\Debug\net8.0\EventListener.Domain.dll
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Domain\obj\Debug\net8.0\refint\EventListener.Domain.dll
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Domain\obj\Debug\net8.0\EventListener.Domain.pdb
+C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Domain\obj\Debug\net8.0\ref\EventListener.Domain.dll

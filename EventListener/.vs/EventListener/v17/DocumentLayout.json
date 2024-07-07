@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D062B98A-FCD3-4E95-94FC-879DBD6C96BB}|EventListener.Infrastructure\\EventListener.Infrastructure.csproj|c:\\users\\boo\\source\\repos\\eventdrivensystem\\eventlistener\\eventlistener.infrastructure\\messagequeue\\messageconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D062B98A-FCD3-4E95-94FC-879DBD6C96BB}|EventListener.Infrastructure\\EventListener.Infrastructure.csproj|solutionrelative:eventlistener.infrastructure\\messagequeue\\messageconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C766A7-B98B-4C02-B53E-78E4812F2020}|EventListener.Application\\EventListener.Application.csproj|c:\\users\\boo\\source\\repos\\eventdrivensystem\\eventlistener\\eventlistener.application\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C766A7-B98B-4C02-B53E-78E4812F2020}|EventListener.Application\\EventListener.Application.csproj|solutionrelative:eventlistener.application\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C766A7-B98B-4C02-B53E-78E4812F2020}|EventListener.Application\\EventListener.Application.csproj|c:\\users\\boo\\source\\repos\\eventdrivensystem\\eventlistener\\eventlistener.application\\commands\\saveorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C766A7-B98B-4C02-B53E-78E4812F2020}|EventListener.Application\\EventListener.Application.csproj|solutionrelative:eventlistener.application\\commands\\saveorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E42969-3AC3-434F-B82A-6E06E8E493B6}|EventListener\\EventListener.WebApi.csproj|c:\\users\\boo\\source\\repos\\eventdrivensystem\\eventlistener\\eventlistener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E42969-3AC3-434F-B82A-6E06E8E493B6}|EventListener\\EventListener.WebApi.csproj|solutionrelative:eventlistener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D062B98A-FCD3-4E95-94FC-879DBD6C96BB}|EventListener.Infrastructure\\EventListener.Infrastructure.csproj|c:\\users\\boo\\source\\repos\\eventdrivensystem\\eventlistener\\eventlistener.infrastructure\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D062B98A-FCD3-4E95-94FC-879DBD6C96BB}|EventListener.Infrastructure\\EventListener.Infrastructure.csproj|solutionrelative:eventlistener.infrastructure\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C766A7-B98B-4C02-B53E-78E4812F2020}|EventListener.Application\\EventListener.Application.csproj|c:\\users\\boo\\source\\repos\\eventdrivensystem\\eventlistener\\eventlistener.application\\handlers\\saveorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C766A7-B98B-4C02-B53E-78E4812F2020}|EventListener.Application\\EventListener.Application.csproj|solutionrelative:eventlistener.application\\handlers\\saveorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C766A7-B98B-4C02-B53E-78E4812F2020}|EventListener.Application\\EventListener.Application.csproj|c:\\users\\boo\\source\\repos\\eventdrivensystem\\eventlistener\\eventlistener.application\\contract\\iinfrastructure\\imessageconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C766A7-B98B-4C02-B53E-78E4812F2020}|EventListener.Application\\EventListener.Application.csproj|solutionrelative:eventlistener.application\\contract\\iinfrastructure\\imessageconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BF98B1-78D6-465F-B4F1-A94E5224D6B4}|EventListener.Persistence\\EventListener.Persistence.csproj|c:\\users\\boo\\source\\repos\\eventdrivensystem\\eventlistener\\eventlistener.persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BF98B1-78D6-465F-B4F1-A94E5224D6B4}|EventListener.Persistence\\EventListener.Persistence.csproj|solutionrelative:eventlistener.persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C766A7-B98B-4C02-B53E-78E4812F2020}|EventListener.Application\\EventListener.Application.csproj|c:\\users\\boo\\source\\repos\\eventdrivensystem\\eventlistener\\eventlistener.application\\contract\\irepositories\\icommon\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C766A7-B98B-4C02-B53E-78E4812F2020}|EventListener.Application\\EventListener.Application.csproj|solutionrelative:eventlistener.application\\contract\\irepositories\\icommon\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BF98B1-78D6-465F-B4F1-A94E5224D6B4}|EventListener.Persistence\\EventListener.Persistence.csproj|c:\\users\\boo\\source\\repos\\eventdrivensystem\\eventlistener\\eventlistener.persistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BF98B1-78D6-465F-B4F1-A94E5224D6B4}|EventListener.Persistence\\EventListener.Persistence.csproj|solutionrelative:eventlistener.persistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C766A7-B98B-4C02-B53E-78E4812F2020}|EventListener.Application\\EventListener.Application.csproj|c:\\users\\boo\\source\\repos\\eventdrivensystem\\eventlistener\\eventlistener.application\\contract\\irepositories\\icommon\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C766A7-B98B-4C02-B53E-78E4812F2020}|EventListener.Application\\EventListener.Application.csproj|solutionrelative:eventlistener.application\\contract\\irepositories\\icommon\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60ECF620-9D4D-447D-A281-A6ED8E7C3170}|EventListener.Domain\\EventListener.Domain.csproj|c:\\users\\boo\\source\\repos\\eventdrivensystem\\eventlistener\\eventlistener.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60ECF620-9D4D-447D-A281-A6ED8E7C3170}|EventListener.Domain\\EventListener.Domain.csproj|solutionrelative:eventlistener.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaveOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Application\\Commands\\SaveOrderRequest.cs",
+              "RelativeDocumentMoniker": "EventListener.Application\\Commands\\SaveOrderRequest.cs",
+              "ToolTip": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Application\\Commands\\SaveOrderRequest.cs",
+              "RelativeToolTip": "EventListener.Application\\Commands\\SaveOrderRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:39:48.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Application\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "EventListener.Application\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Application\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "EventListener.Application\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:35:07.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Infrastructure\\MessageQueue\\MessageConsumer.cs",
+              "RelativeDocumentMoniker": "EventListener.Infrastructure\\MessageQueue\\MessageConsumer.cs",
+              "ToolTip": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Infrastructure\\MessageQueue\\MessageConsumer.cs",
+              "RelativeToolTip": "EventListener.Infrastructure\\MessageQueue\\MessageConsumer.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAgwDAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:11:26.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Infrastructure\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "EventListener.Infrastructure\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Infrastructure\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "EventListener.Infrastructure\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:09:15.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener\\Program.cs",
+              "RelativeDocumentMoniker": "EventListener\\Program.cs",
+              "ToolTip": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener\\Program.cs",
+              "RelativeToolTip": "EventListener\\Program.cs",
+              "ViewState": "AQIAAAAAAABgZmZmZmYkwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T01:06:04.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMessageConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Application\\Contract\\IInfrastructure\\IMessageConsumer.cs",
+              "RelativeDocumentMoniker": "EventListener.Application\\Contract\\IInfrastructure\\IMessageConsumer.cs",
+              "ToolTip": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Application\\Contract\\IInfrastructure\\IMessageConsumer.cs",
+              "RelativeToolTip": "EventListener.Application\\Contract\\IInfrastructure\\IMessageConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:39:48.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaveOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Application\\Handlers\\SaveOrderHandler.cs",
+              "RelativeDocumentMoniker": "EventListener.Application\\Handlers\\SaveOrderHandler.cs",
+              "ToolTip": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Application\\Handlers\\SaveOrderHandler.cs",
+              "RelativeToolTip": "EventListener.Application\\Handlers\\SaveOrderHandler.cs",
+              "ViewState": "AQIAAAEAAABAzMzMzMz8vw4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:41:56.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Application\\Contract\\IRepositories\\ICommon\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "EventListener.Application\\Contract\\IRepositories\\ICommon\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Application\\Contract\\IRepositories\\ICommon\\IUnitOfWork.cs",
+              "RelativeToolTip": "EventListener.Application\\Contract\\IRepositories\\ICommon\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:02:23.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "EventListener.Persistence\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "EventListener.Persistence\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAAAoAAAAAMzMzMzMLwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:27:47.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Persistence\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "EventListener.Persistence\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Persistence\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "EventListener.Persistence\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAwAAAAgMzMzMzMvwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:02:54.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Application\\Contract\\IRepositories\\ICommon\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "EventListener.Application\\Contract\\IRepositories\\ICommon\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Application\\Contract\\IRepositories\\ICommon\\IBaseRepository.cs",
+              "RelativeToolTip": "EventListener.Application\\Contract\\IRepositories\\ICommon\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:03:40.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "EventListener.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventListener\\EventListener.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "EventListener.Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T01:02:19.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
