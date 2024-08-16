@@ -513,11 +513,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventSender\\EventSender.Infrastructure\\EventSender.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Naguib\\Projects\\EventDrivenSystem\\EventSender\\EventSender.Infrastructure\\EventSender.Infrastructure.csproj",
       "projectName": "EventSender.Infrastructure",
-      "projectPath": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventSender\\EventSender.Infrastructure\\EventSender.Infrastructure.csproj",
+      "projectPath": "C:\\Naguib\\Projects\\EventDrivenSystem\\EventSender\\EventSender.Infrastructure\\EventSender.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Boo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventSender\\EventSender.Infrastructure\\obj\\",
+      "outputPath": "C:\\Naguib\\Projects\\EventDrivenSystem\\EventSender\\EventSender.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Boo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -535,8 +535,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventSender\\EventSender.Application\\EventSender.Application.csproj": {
-              "projectPath": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventSender\\EventSender.Application\\EventSender.Application.csproj"
+            "C:\\Naguib\\Projects\\EventDrivenSystem\\EventSender\\EventSender.Application\\EventSender.Application.csproj": {
+              "projectPath": "C:\\Naguib\\Projects\\EventDrivenSystem\\EventSender\\EventSender.Application\\EventSender.Application.csproj"
             }
           }
         }

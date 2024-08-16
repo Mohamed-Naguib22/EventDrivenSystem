@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EzlIvNpDJ9g=",
+  "dgSpecHash": "zdKJWWmvMa8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventSender\\EventSender.Infrastructure\\EventSender.Infrastructure.csproj",
+  "projectFilePath": "C:\\Naguib\\Projects\\EventDrivenSystem\\EventSender\\EventSender.Infrastructure\\EventSender.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Boo\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Boo\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",

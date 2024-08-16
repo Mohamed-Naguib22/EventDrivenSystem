@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventSender\\EventSender.Domain\\EventSender.Domain.csproj": {}
+    "C:\\Naguib\\Projects\\EventDrivenSystem\\EventSender\\EventSender.Domain\\EventSender.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventSender\\EventSender.Domain\\EventSender.Domain.csproj": {
+    "C:\\Naguib\\Projects\\EventDrivenSystem\\EventSender\\EventSender.Domain\\EventSender.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventSender\\EventSender.Domain\\EventSender.Domain.csproj",
+        "projectUniqueName": "C:\\Naguib\\Projects\\EventDrivenSystem\\EventSender\\EventSender.Domain\\EventSender.Domain.csproj",
         "projectName": "EventSender.Domain",
-        "projectPath": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventSender\\EventSender.Domain\\EventSender.Domain.csproj",
+        "projectPath": "C:\\Naguib\\Projects\\EventDrivenSystem\\EventSender\\EventSender.Domain\\EventSender.Domain.csproj",
         "packagesPath": "C:\\Users\\Boo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Boo\\source\\repos\\EventDrivenSystem\\EventSender\\EventSender.Domain\\obj\\",
+        "outputPath": "C:\\Naguib\\Projects\\EventDrivenSystem\\EventSender\\EventSender.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Boo\\AppData\\Roaming\\NuGet\\NuGet.Config",

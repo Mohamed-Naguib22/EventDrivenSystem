@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EventListener.Domain
-build_property.ProjectDir = C:\Users\Boo\source\repos\EventDrivenSystem\EventListener\EventListener.Domain\
+build_property.ProjectDir = C:\Naguib\Projects\EventDrivenSystem\EventListener\EventListener.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

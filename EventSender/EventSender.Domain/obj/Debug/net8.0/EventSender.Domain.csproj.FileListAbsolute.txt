@@ -20,3 +20,15 @@ C:\Users\Boo\source\repos\EventDrivenSystem\EventSender\EventSender.Domain\obj\D
 C:\Users\Boo\source\repos\EventDrivenSystem\EventSender\EventSender.Domain\obj\Debug\net8.0\refint\EventSender.Domain.dll
 C:\Users\Boo\source\repos\EventDrivenSystem\EventSender\EventSender.Domain\obj\Debug\net8.0\EventSender.Domain.pdb
 C:\Users\Boo\source\repos\EventDrivenSystem\EventSender\EventSender.Domain\obj\Debug\net8.0\ref\EventSender.Domain.dll
+C:\Naguib\Projects\EventDrivenSystem\EventSender\EventSender.Domain\bin\Debug\net8.0\EventSender.Domain.deps.json
+C:\Naguib\Projects\EventDrivenSystem\EventSender\EventSender.Domain\bin\Debug\net8.0\EventSender.Domain.dll
+C:\Naguib\Projects\EventDrivenSystem\EventSender\EventSender.Domain\bin\Debug\net8.0\EventSender.Domain.pdb
+C:\Naguib\Projects\EventDrivenSystem\EventSender\EventSender.Domain\obj\Debug\net8.0\EventSender.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Naguib\Projects\EventDrivenSystem\EventSender\EventSender.Domain\obj\Debug\net8.0\EventSender.Domain.AssemblyInfoInputs.cache
+C:\Naguib\Projects\EventDrivenSystem\EventSender\EventSender.Domain\obj\Debug\net8.0\EventSender.Domain.AssemblyInfo.cs
+C:\Naguib\Projects\EventDrivenSystem\EventSender\EventSender.Domain\obj\Debug\net8.0\EventSender.Domain.csproj.CoreCompileInputs.cache
+C:\Naguib\Projects\EventDrivenSystem\EventSender\EventSender.Domain\obj\Debug\net8.0\EventSender.Domain.sourcelink.json
+C:\Naguib\Projects\EventDrivenSystem\EventSender\EventSender.Domain\obj\Debug\net8.0\EventSender.Domain.dll
+C:\Naguib\Projects\EventDrivenSystem\EventSender\EventSender.Domain\obj\Debug\net8.0\refint\EventSender.Domain.dll
+C:\Naguib\Projects\EventDrivenSystem\EventSender\EventSender.Domain\obj\Debug\net8.0\EventSender.Domain.pdb
+C:\Naguib\Projects\EventDrivenSystem\EventSender\EventSender.Domain\obj\Debug\net8.0\ref\EventSender.Domain.dll
